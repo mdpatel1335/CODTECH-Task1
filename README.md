@@ -47,7 +47,7 @@ User-Friendly Interface: Simple and intuitive design suitable for both novice an
 
 # WINDOWS:
 
-just install password strength checker exe and execute it.
+just install password checker.exe and execute it.
 
 # LINUX:
 
