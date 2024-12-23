@@ -10,7 +10,7 @@ DOMAIN: Cyber Security & Ethical Hacking
 
 DURATION: 20th dec 2024 to 20th jan 2025
 
-MENTOR:Neela Santhosh Kumar
+MENTOR:Muzammil Ahmed
 
 
 
@@ -56,4 +56,4 @@ download task1 file from repository.
 
 open Terminal and go to downloaded Directory.
 
-now type python3 task.py.
+now type python3 task1.py
