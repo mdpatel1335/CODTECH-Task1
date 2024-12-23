@@ -42,3 +42,18 @@ Customizable Rules: Allows customization of strength criteria based on specific 
 Security Suggestions: Provides recommendations for improving weak passwords.
 
 User-Friendly Interface: Simple and intuitive design suitable for both novice and experienced users.
+
+
+INSTALLATION:
+
+WINDOWS:
+
+just install password strength checker exe and execute it.
+
+LINUX:
+
+download task1 file from repository.
+
+open Terminal and go to downloaded Directory.
+
+now type python3 task.py.
