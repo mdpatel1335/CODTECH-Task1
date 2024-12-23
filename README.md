@@ -16,14 +16,13 @@ MENTOR:Muzammil Ahmed
 
 
 
-OVERVIEW OF THE PROJECT:**
-**
+# OVERVIEW OF THE PROJECT:
 
-Password Strength Checker Tool
+# Password Strength Checker Tool
 
 This Password Strength Checker Tool evaluates the strength of user-entered passwords based on various criteria to ensure they are secure and meet industry-standard guidelines. It provides an easy-to-use interface and feedback to users to improve their password quality and protect their accounts from potential security breaches.
 
-Features:
+# Features:
 
 Strength Meter: Visual representation of password strength (e.g., weak, medium, strong).
 
@@ -44,13 +43,13 @@ Security Suggestions: Provides recommendations for improving weak passwords.
 User-Friendly Interface: Simple and intuitive design suitable for both novice and experienced users.
 
 
-INSTALLATION:
+# INSTALLATION:
 
-WINDOWS:
+# WINDOWS:
 
 just install password strength checker exe and execute it.
 
-LINUX:
+# LINUX:
 
 download task1 file from repository.
 
