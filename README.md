@@ -24,7 +24,6 @@ This Password Strength Checker Tool evaluates the strength of user-entered passw
 
 # Features:
 
-- Strength Meter: Visual representation of password strength (e.g., weak, medium, strong).
 
 - Criteria Evaluation: Checks for:
 
